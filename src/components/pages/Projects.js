@@ -3,9 +3,9 @@ import Card from "react-bootstrap/Card";
 
 export default function Projects() {
   return (
-    <div class="m-3 d-flex flex-column align-items-center">
+    <div class="d-flex flex-column align-items-center">
       <h2>Projects</h2>
-      <div class="m-3 d-flex flex-row justify-content-center flex-wrap">
+      <div class="mx-4 d-flex flex-row justify-content-center flex-wrap">
         <div class="card-1 m-2">
           <Card
             style={{ width: "25rem", minHeight: "35rem", background: "black" }}

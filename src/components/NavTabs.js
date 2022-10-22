@@ -19,6 +19,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Joseph Leano
         </h1>
       </div>
+
       <ul
         style={styles.nav}
         className="nav nav-pills d-flex justify-content-evenly"
