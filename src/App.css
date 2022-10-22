@@ -1,3 +1,16 @@
+.about-text{
+    font-size:30px;
+    margin: 3%;
+}
+
+.resume-text{
+    font-size:30px;
+}
+
+.resume-link{
+    color: crimson;
+}
+
 .nav-pills .pill-1 .nav-link {
     background-color: #535353;
     color: white;
