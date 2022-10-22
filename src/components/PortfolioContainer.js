@@ -8,7 +8,6 @@ import Contact from "./pages/Contact";
 export default function PortfolioContainer() {
   const styles = {
     all: {
-      backgroundColor: "#63D2FF",
       color: "#ffffff",
       minHeight: "100vh",
       backgroundImage: `url("https://github.com/jdanleano/My-React-Portfolio/blob/main/src/assets/images/work-3.jpeg?raw=true")`,
