@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Home() {
+export default function Resume() {
   return (
     <div>
       <div class="m-3 d-flex flex-column align-items-center">
