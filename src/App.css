@@ -1,4 +1,16 @@
-/* * {
-    background-color: #808080;
-    color: #000000;
-} */
+.nav-pills .pill-1 .nav-link {
+    background-color: #535353;
+    color: white;
+}
+.nav-pills .pill-2 .nav-link {
+    background-color: #535353;
+    color: white;
+}
+.nav-pills .pill-3 .nav-link {
+    background-color: #535353;
+    color: white;
+}
+.nav-pills .pill-4 .nav-link {
+    background-color: #535353;
+    color: white;
+}
