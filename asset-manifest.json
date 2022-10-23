@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.ce50ed25.css",
-    "main.js": "/My-React-Portfolio/static/js/main.cd6acb7c.js",
+    "main.css": "/My-React-Portfolio/static/css/main.d6d583a1.css",
+    "main.js": "/My-React-Portfolio/static/js/main.772fb4d8.js",
     "static/media/id-picture.jpg": "/My-React-Portfolio/static/media/id-picture.0037c95f1295b7734714.jpg",
+    "static/media/mysql-logo.png": "/My-React-Portfolio/static/media/mysql-logo.edd94433b7e1bdaee471.png",
+    "static/media/css-logo.png": "/My-React-Portfolio/static/media/css-logo.066c6383e9acfce37fe7.png",
+    "static/media/bootstrap-logo.png": "/My-React-Portfolio/static/media/bootstrap-logo.32c248432e2b86298964.png",
+    "static/media/html5-logo.png": "/My-React-Portfolio/static/media/html5-logo.3c976d97509510bbef15.png",
+    "static/media/react-logo.png": "/My-React-Portfolio/static/media/react-logo.32adb1d2ea7401946e48.png",
+    "static/media/nodejs-logo.png": "/My-React-Portfolio/static/media/nodejs-logo.b96c59c2d8232e879b27.png",
+    "static/media/mongodb-logo.png": "/My-React-Portfolio/static/media/mongodb-logo.9441a65a6d700a566532.png",
+    "static/media/express-js.png": "/My-React-Portfolio/static/media/express-js.b44f5a4b0ab040328aac.png",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.ce50ed25.css.map": "/My-React-Portfolio/static/css/main.ce50ed25.css.map",
-    "main.cd6acb7c.js.map": "/My-React-Portfolio/static/js/main.cd6acb7c.js.map"
+    "main.d6d583a1.css.map": "/My-React-Portfolio/static/css/main.d6d583a1.css.map",
+    "main.772fb4d8.js.map": "/My-React-Portfolio/static/js/main.772fb4d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce50ed25.css",
-    "static/js/main.cd6acb7c.js"
+    "static/css/main.d6d583a1.css",
+    "static/js/main.772fb4d8.js"
   ]
 }
