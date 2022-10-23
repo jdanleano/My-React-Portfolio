@@ -2,18 +2,21 @@ import React from "react";
 
 function NavTabs({ currentPage, handlePageChange }) {
   const styles = {
+    bar: {
+      backgroundColor: "#535353",
+    },
     top: {
       paddingTop: "40px",
       paddingBottom: "5px",
     },
     nav: {
-      paddingTop: "10px",
-      paddingBottom: "60px",
+      paddingTop: "5px",
+      paddingBottom: "20px",
     },
   };
 
   return (
-    <div>
+    <div style={styles.bar}>
       <div>
         <h1 style={styles.top} class="d-flex justify-content-center">
           Joseph Leano

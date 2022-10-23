@@ -1,10 +1,10 @@
 .about-text{
-    font-size:30px;
+    font-size:20px;
     margin: 3%;
 }
 
 .resume-text{
-    font-size:30px;
+    font-size:25px;
 }
 
 .resume-link{
@@ -12,19 +12,19 @@
 }
 
 .nav-pills .pill-1 .nav-link {
-    background-color: #535353;
+    background-color: #25252577;
     color: white;
 }
 .nav-pills .pill-2 .nav-link {
-    background-color: #535353;
+    background-color: #25252577;
     color: white;
 }
 .nav-pills .pill-3 .nav-link {
-    background-color: #535353;
+    background-color: #25252577;
     color: white;
 }
 .nav-pills .pill-4 .nav-link {
-    background-color: #535353;
+    background-color: #25252577;
     color: white;
 }
 
