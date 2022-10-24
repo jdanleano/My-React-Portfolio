@@ -31,11 +31,7 @@ export default function Projects() {
           </a>
         </div>
         <div class="card-1 m-2">
-          <a
-            href="https://www.joephartech.com"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href="http://www.joephartech.com" target="_blank" rel="noreferrer">
             <Card
               style={{
                 width: "25rem",

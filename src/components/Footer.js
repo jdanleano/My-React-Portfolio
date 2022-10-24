@@ -38,7 +38,7 @@ export default function Footer() {
         </a>
         <a
           class="fa fa-linkedin"
-          href="www.linkedin.com/in/joseph-dan-leano-4109a7123"
+          href="https://www.linkedin.com/in/joseph-dan-leano-4109a7123"
           target="_blank"
           rel="noreferrer"
         >
