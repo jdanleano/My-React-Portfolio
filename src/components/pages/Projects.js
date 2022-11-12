@@ -56,6 +56,33 @@ export default function Projects() {
         </div>
         <div class="card-1 m-2">
           <a
+            href="https://ehr-mypulse.herokuapp.com/"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Card
+              style={{
+                width: "25rem",
+                minHeight: "35rem",
+                background: "black",
+              }}
+            >
+              <Card.Img
+                variant="top"
+                src="https://github.com/Summerjay0401/project-x-emr/blob/main/src/project-emr-frontend/src/assets/images/screenshot1.jpg"
+              />
+              <Card.Body>
+                <Card.Title>MyPulse</Card.Title>
+                <Card.Text>
+                  MyPulse is an Electronic Health Records application that
+                  records a patient's clinical data and patient care information
+                </Card.Text>
+              </Card.Body>
+            </Card>
+          </a>
+        </div>
+        <div class="card-1 m-2">
+          <a
             href="https://jdanleano.github.io/Code-Monsters/"
             target="_blank"
             rel="noreferrer"
