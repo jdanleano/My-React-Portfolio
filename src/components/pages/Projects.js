@@ -69,7 +69,7 @@ export default function Projects() {
             >
               <Card.Img
                 variant="top"
-                src="https://github.com/Summerjay0401/project-x-emr/blob/main/src/project-emr-frontend/src/assets/images/screenshot1.jpg"
+                src="https://github.com/Summerjay0401/project-x-emr/blob/main/src/project-emr-frontend/src/assets/images/screenshot1.jpg?raw=true"
               />
               <Card.Body>
                 <Card.Title>MyPulse</Card.Title>
